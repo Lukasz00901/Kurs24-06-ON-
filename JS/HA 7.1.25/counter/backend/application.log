@@ -1,0 +1,157 @@
+2025-01-07 14:28:28 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:28 [INFO]: Neuer Zählerwert: 1
+2025-01-07 14:28:29 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:29 [INFO]: Neuer Zählerwert: 2
+2025-01-07 14:28:29 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:29 [INFO]: Neuer Zählerwert: 3
+2025-01-07 14:28:29 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:29 [INFO]: Neuer Zählerwert: 4
+2025-01-07 14:28:29 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:29 [INFO]: Neuer Zählerwert: 5
+2025-01-07 14:28:29 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:29 [INFO]: Neuer Zählerwert: 6
+2025-01-07 14:28:30 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:30 [INFO]: Neuer Zählerwert: 7
+2025-01-07 14:28:30 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:30 [INFO]: Neuer Zählerwert: 8
+2025-01-07 14:28:30 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:30 [INFO]: Neuer Zählerwert: 9
+2025-01-07 14:28:30 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:30 [INFO]: Neuer Zählerwert: 10
+2025-01-07 14:28:30 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:30 [INFO]: Neuer Zählerwert: 11
+2025-01-07 14:28:31 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:31 [INFO]: Neuer Zählerwert: 12
+2025-01-07 14:28:31 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:31 [INFO]: Neuer Zählerwert: 13
+2025-01-07 14:28:31 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:31 [INFO]: Neuer Zählerwert: 14
+2025-01-07 14:28:31 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:31 [INFO]: Neuer Zählerwert: 15
+2025-01-07 14:28:31 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:31 [INFO]: Neuer Zählerwert: 16
+2025-01-07 14:28:31 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:31 [INFO]: Neuer Zählerwert: 17
+2025-01-07 14:28:32 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:32 [INFO]: Neuer Zählerwert: 18
+2025-01-07 14:28:32 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:32 [INFO]: Neuer Zählerwert: 19
+2025-01-07 14:28:33 [INFO]: Inkrementiere Zähler
+2025-01-07 14:28:33 [INFO]: Neuer Zählerwert: 20
+2025-01-07 14:29:12 [WARN]: Neuer Zählerwert: 19
+2025-01-07 14:29:12 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:12 [INFO]: Aktueller Zählerwert: 20
+2025-01-07 14:29:12 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:12 [INFO]: Aktueller Zählerwert: 19
+2025-01-07 14:29:12 [WARN]: Neuer Zählerwert: 18
+2025-01-07 14:29:12 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:12 [INFO]: Aktueller Zählerwert: 18
+2025-01-07 14:29:12 [WARN]: Neuer Zählerwert: 17
+2025-01-07 14:29:12 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:12 [INFO]: Aktueller Zählerwert: 17
+2025-01-07 14:29:12 [WARN]: Neuer Zählerwert: 16
+2025-01-07 14:29:12 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:12 [INFO]: Aktueller Zählerwert: 16
+2025-01-07 14:29:12 [WARN]: Neuer Zählerwert: 15
+2025-01-07 14:29:13 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:13 [INFO]: Aktueller Zählerwert: 15
+2025-01-07 14:29:13 [WARN]: Neuer Zählerwert: 14
+2025-01-07 14:29:13 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:13 [INFO]: Aktueller Zählerwert: 14
+2025-01-07 14:29:13 [WARN]: Neuer Zählerwert: 13
+2025-01-07 14:29:13 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:13 [INFO]: Aktueller Zählerwert: 13
+2025-01-07 14:29:13 [WARN]: Neuer Zählerwert: 12
+2025-01-07 14:29:13 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:13 [INFO]: Aktueller Zählerwert: 12
+2025-01-07 14:29:13 [WARN]: Neuer Zählerwert: 11
+2025-01-07 14:29:13 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:13 [INFO]: Aktueller Zählerwert: 11
+2025-01-07 14:29:13 [WARN]: Neuer Zählerwert: 10
+2025-01-07 14:29:14 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:14 [INFO]: Aktueller Zählerwert: 10
+2025-01-07 14:29:14 [WARN]: Neuer Zählerwert: 9
+2025-01-07 14:29:14 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:14 [INFO]: Aktueller Zählerwert: 9
+2025-01-07 14:29:14 [WARN]: Neuer Zählerwert: 8
+2025-01-07 14:29:14 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:14 [INFO]: Aktueller Zählerwert: 8
+2025-01-07 14:29:14 [WARN]: Neuer Zählerwert: 7
+2025-01-07 14:29:14 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:14 [INFO]: Aktueller Zählerwert: 7
+2025-01-07 14:29:14 [WARN]: Neuer Zählerwert: 6
+2025-01-07 14:29:14 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:14 [INFO]: Aktueller Zählerwert: 6
+2025-01-07 14:29:14 [WARN]: Neuer Zählerwert: 5
+2025-01-07 14:29:15 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:15 [INFO]: Aktueller Zählerwert: 5
+2025-01-07 14:29:15 [WARN]: Neuer Zählerwert: 4
+2025-01-07 14:29:15 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:15 [INFO]: Aktueller Zählerwert: 4
+2025-01-07 14:29:15 [WARN]: Neuer Zählerwert: 3
+2025-01-07 14:29:15 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:15 [INFO]: Aktueller Zählerwert: 3
+2025-01-07 14:29:15 [WARN]: Neuer Zählerwert: 2
+2025-01-07 14:29:15 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:15 [INFO]: Aktueller Zählerwert: 2
+2025-01-07 14:29:15 [WARN]: Neuer Zählerwert: 1
+2025-01-07 14:29:15 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:15 [INFO]: Aktueller Zählerwert: 1
+2025-01-07 14:29:15 [WARN]: Neuer Zählerwert: 0
+2025-01-07 14:29:16 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:16 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:16 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:16 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:16 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:16 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:16 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:16 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:16 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:16 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:16 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:16 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:16 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:16 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:16 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:17 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:17 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:17 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:17 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:17 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:17 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:17 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:17 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:17 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:17 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:17 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:17 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:17 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:17 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:17 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:17 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:17 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:17 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:18 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:18 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:18 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:18 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:18 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:18 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:18 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:18 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:18 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:18 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:18 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:18 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:18 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:18 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:18 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:19 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:19 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:19 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:19 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:19 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:19 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
+2025-01-07 14:29:19 [INFO]: Versuche, Zähler zu dekrementieren
+2025-01-07 14:29:19 [INFO]: Aktueller Zählerwert: 0
+2025-01-07 14:29:19 [ERROR]: Zählerwert ist bereits 0. Decrementieren ist nicht möglich.
