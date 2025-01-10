@@ -1,0 +1,57 @@
+2025-01-09 06:09:31 [info]: Server läuft auf 5001
+2025-01-09 06:09:48 [info]: Wurzel Route aufgerufen
+2025-01-09 06:10:04 [info]: Hallo Welt Route aufgerufen
+2025-01-09 06:10:10 [info]: Bye Route aufgerufen
+2025-01-09 06:40:00 [info]: Wurzel Route aufgerufen
+2025-01-09 06:40:02 [info]: Wurzel Route aufgerufen
+2025-01-09 06:40:03 [info]: Wurzel Route aufgerufen
+2025-01-09 06:40:08 [info]: Hallo Welt Route aufgerufen
+2025-01-09 07:10:47 [info]: Hallo Welt Route aufgerufen
+2025-01-09 07:10:50 [info]: Wurzel Route aufgerufen
+2025-01-09 07:10:52 [info]: Hallo Welt Route aufgerufen
+2025-01-10 11:09:41 [info]: Server läuft auf 5001
+2025-01-10 11:11:58 [info]: Hallo Welt Route aufgerufen
+2025-01-10 13:40:25 [info]: Server läuft auf 5001
+2025-01-10 13:40:38 [info]: Endpoint /hello called
+2025-01-10 13:40:41 [info]: Endpoint /hello called
+2025-01-10 13:40:41 [info]: Endpoint /hello called
+2025-01-10 13:40:41 [info]: Endpoint /hello called
+2025-01-10 13:40:41 [info]: Endpoint /hello called
+2025-01-10 13:40:41 [info]: Endpoint /hello called
+2025-01-10 13:40:42 [info]: Endpoint /hello called
+2025-01-10 13:40:47 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:48 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:48 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:48 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:49 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:49 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:49 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:49 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:49 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:49 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:50 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:50 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:50 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:50 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:50 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:51 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:51 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:51 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:40:51 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:44:02 [info]: Server läuft auf 5001
+2025-01-10 13:44:18 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:44:18 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:44:18 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:44:19 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:44:19 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:44:19 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:44:19 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:44:19 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:44:20 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:44:20 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:44:20 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:44:20 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:46:29 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:46:30 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:46:31 [error]: Endpoint /error called - 404 Not Found
+2025-01-10 13:46:39 [info]: Endpoint /hello called
